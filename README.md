@@ -1,0 +1,2 @@
+# obsidianTheme
+myTheme
